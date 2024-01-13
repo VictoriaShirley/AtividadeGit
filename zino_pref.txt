@@ -1,0 +1,51 @@
+<div>
+    <h1>Seção da Victória</h1>
+    <ul>
+      <li>Nicki Minaj</li>
+      <li>Azealia Banks</li>
+      <li>LE SSERAFIM</li>
+      <li>aespa</li>
+      <li>LOONA</li>
+      <li>ARTMS</li>
+      <li>Loosemble</li>
+      <li>IVE</li>
+      <li>Lady Gaga</li>
+      <li>Chase ICon</li>
+      <li>PinkPantheress</li>
+      <li>Arca</li>
+      <li>Joelma</li>
+      <li>f(x)</li>
+      <li>Anitta</li>
+      <li>tripleS</li>
+      <li>NewJeans</li>
+      <li>Red Velvet</li>
+      <li>Ice Spice</li>
+      <li>EXID</li>
+      <li>Twice</li>
+      <li>KARA</li>
+      <li>SISTAR</li>
+      <li>Megan Thee Stallion</li>
+      <li>Slayyyter</li>
+      <li>T-ARA</li>
+      <li>Charli XCX</li>
+      <li>SZA</li>
+      <li>SOPHIE</li>
+      <li>Nancy Ajram</li>
+      <li>SNSD (Girls' Generation)</li>
+      <li>Fergie</li>
+      <li>Britney Spears</li>
+      <li>Juliana Bonde</li>
+      <li>Wonder Girls</li>
+      <li>Gwen Stefani</li>
+      <li>Trisha Paytas</li>
+      <li>Orange Caramel</li>
+      <li>miss A</li>
+      <li>Grimes</li>
+      <li>IZ*ONE</li>
+      <li>4Minute</li>
+      <li>Avril Lavigne</li>
+      <li>Kelly Key</li>
+      <li>Khia</li>
+      <li>Kim Petras</li>
+  </ul>
+<div/>
