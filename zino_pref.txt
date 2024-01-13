@@ -1,5 +1,5 @@
 <div>
-    <h1>Seção da Victória</h1>
+    <h1>Seção do Zino</h1>
     <ul>
       <li>Nicki Minaj</li>
       <li>Azealia Banks</li>
