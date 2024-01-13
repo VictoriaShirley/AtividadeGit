@@ -1,4 +1,4 @@
-# AtividadeGitByron - Versão v0.1
+# AtividadeGitByron - Versão v0.2
 
 # Mudança #01 - Zino
 # Mudança #02 - Vick
